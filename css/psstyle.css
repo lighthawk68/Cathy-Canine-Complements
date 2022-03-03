@@ -1,0 +1,94 @@
+h1 {
+font-family: Arial, Verdana, Sans-Serif;
+color: #000000;
+}
+
+h3 {
+text-align: center;
+font-family: Arial, Verdana, Sans-Serif;
+color: #000000;
+}
+
+body {
+background-image: url("../images/sky.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+font-family: Arial, Times New Roman, Garamond, Serif;
+font-size: 16px;
+color: #666666;
+}
+
+div#content {
+	width: 770px;
+	margin-left: 160px;
+	padding: 0 20px;
+	color: #121212;
+}
+
+p	{
+	text-indent:50px;
+}
+
+div#courtesy {
+	font-size: 8px;
+	text-align: center;
+	width: 770px;
+	margin-left: 130px;
+	padding: 0 20px;
+}
+
+div#cart {
+	margin-left:940px;
+	float:right;
+	width:350px;
+	position:fixed;
+}
+div#nav {
+	float:left;
+	width:200px;
+	position:fixed;
+	
+}
+
+div#cart {
+	margin-left:980px;
+	float:right;
+	width:180px;
+	position:fixed;
+}
+
+ul#list-nav {
+list-style:none;
+padding:0;
+width:140px;
+}
+
+ul#list-nav li {
+
+}
+
+ul#list-nav li a {
+text-decoration:none;
+padding:5px 4px;
+width:140px;
+background:#fbfdfc;
+color:#555555;
+float:left;
+text-align:center;
+border:3px outset #7bbddd;
+border-radius:25px;
+}
+
+ul#list-nav li a:hover {
+background:#7bbddd;
+color:#ffffff;
+border:3px inset #fbfdfc;
+}
+
+a {color:#990000}
+a:hover {color:#000000}
+a:visited {color:#0000ee}
+
+img { 
+	border: 0px;
+}
